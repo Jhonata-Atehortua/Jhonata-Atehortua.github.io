@@ -1,0 +1,73 @@
+body{
+    background-color: #2f4f4f;
+    color: white;
+}
+
+.Inicial{
+    padding-top: 23%;
+    padding-bottom: 30%;
+    text-align: center;
+}
+
+
+.Carou{
+    padding-top: 8%;
+}
+
+.Carou .carousel-inner{
+    border-radius: 45%;
+}
+
+.Carou .Descrip{
+    color: black;
+}
+
+.Nosotros{
+    padding-top: 15%;
+    padding-bottom: 30%;
+}
+
+.Nosotros .Conte{
+    text-align: center;
+    padding-top: 10%;
+}
+
+.Productos{
+    padding-bottom: 6%;
+    margin: 0 auto;
+}
+
+.Productos .Items{
+    padding-top: 5%;
+}
+.Contactanos{
+    padding-top: 15%;
+    padding-bottom: 9%;
+}
+.Contactanos h3{
+    text-align: center;
+}
+.Contactanos .Formulario{
+    margin: 0 auto;
+    width: 45%;
+}
+
+.Contactanos .Formulario .Boton{
+    text-align: center;
+}
+
+.Contactanos .Formulario .Boton button{
+    color: rgb(255, 255, 255);
+}
+
+.PiePagina .contenido .one h5{
+    padding-left: 5%;
+}
+
+.PiePagina .contenido ul li{
+    list-style: none;
+}
+
+.PiePagina .contenido ul li a{
+    text-decoration: none; 
+}
